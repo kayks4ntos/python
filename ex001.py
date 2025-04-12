@@ -11,7 +11,7 @@ while True:
     # adicionando a opção 7 para remover item por nome
     print("7 - remover item por nome")
     print("0 - Sair")
-
+    print("venha conhecer a melhor loja de compras do Brasil")
     opcao = input("Escolha uma opção: ")
 
     if opcao == "1":
